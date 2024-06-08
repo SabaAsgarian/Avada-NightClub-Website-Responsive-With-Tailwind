@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.row{
+  
+    display: flex;
+    flex-wrap: wrap;
+}
+@font-face {
+    font-family: pp;
+    src: url(../font/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family: os;
+    src: url(../font/OpenSans-Regular.ttf);
+}
+.bg1{
+    background-position: 50% 0%;
+}
+.bg2{
+    background-position: 0% 40%;
+}
+.bg3{
+    background-position: 70% 0%; 
+}
+.bg4{
+    background-position: 70% 40%; 
+}
+.bgsm{
+    background-position: 70% 30%;
+}
