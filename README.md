@@ -9,7 +9,8 @@ Avada-NightClub-Website-Responsive-With-Tailwind
 
 
 
-![nit](https://github.com/SabaAsgarian/Avada-NightClub-Website-Responsive-With-Tailwind/assets/166124662/b5674015-e929-4605-85e6-57ace6329ab5)
+![nrrit](https://github.com/SabaAsgarian/Avada-NightClub-Website-Responsive-With-Tailwind/assets/166124662/69d598a3-748c-4c2f-9c5c-4aa401088f3d)
+
 
 
 
