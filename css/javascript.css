@@ -12,7 +12,7 @@
     align-items: center;
     text-align: center;
     transition: 1s;
-   
+   z-index: 999;
 
 }
 .hide{
