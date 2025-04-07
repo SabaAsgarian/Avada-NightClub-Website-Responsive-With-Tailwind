@@ -26,7 +26,7 @@ Avada-NightClub-Website-Responsive-With-Tailwind
 
 - Created - 2024-06-07
 
-- Technologies Used - Html , css , Tailwind
+- Technologies Used - Html , css , Tailwind , javascript(ham menue,pop up)
 
 - Hooks Used : useState 
 
